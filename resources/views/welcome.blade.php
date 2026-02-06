@@ -18,7 +18,7 @@
                                 data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
                                 data-param8="" data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="upload/27972070586_73eb8ef975_o.jpg" alt=""
+                                <img src="images/business-people-at-meeting-2026-01-09-01-00-49-utc.JPG" alt=""
                                     title="27972070586_73eb8ef975_o" width="1440" height="960"
                                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                                     class="rev-slidebg" data-no-retina="">
@@ -130,7 +130,7 @@
             </div>
             <div class="one">
                 <div class="one_half_bg parallax"
-                    style="background-image:url(upload/29969985723_6c5d98cc97_o.jpg);height:550px;"></div>
+                    style="background-image:url(images/happy-african-american-speaker-standing-with-clenc-2026-01-09-12-31-07-utc.jpg);height:550px;"></div>
                 <div class="one_half_bg" style="padding:85px;">
                     <h2 class="ppb_title" style="color:#ff2d54;">The New Era of Tech Companies</h2>
                     <div class="page_tagline" style="">Drawing thousands of the world&#039;s technology leaders
@@ -159,11 +159,11 @@
                     </div>
                 </div>
                 <div class="one_half_bg parallax"
-                    style="background-image:url(upload/29994728733_d2ebe09397_o.jpg);height:550px;"></div>
+                    style="background-image:url(images/smiling-woman-asking-speaker-question-at-business-2026-01-09-10-30-20-utc.jpg);height:550px;"></div>
                 <br class="clear">
             </div>
             <div class="one withsmallpadding ppb_countdown_image parallax withbg "
-                style="background-image:url(upload/27899245542_531ed54fc7_o.jpg);background-position: center top;text-align:center;padding:100px 0 100px 0;color:#ffffff;">
+                style="background-image:url(images/two-performers-sitting-on-floor-in-theater-2026-01-08-07-00-53-utc.jpg);background-position: center top;text-align:center;padding:100px 0 100px 0;color:#ffffff;">
                 <div class="overlay_background"
                     style="background:#000000;background:rgb(0,0,0,0.5);background:rgba(0,0,0,0.5);"></div>
                 <div class="standard_wrapper">
@@ -512,7 +512,7 @@
                             <li class="themeborder engineering growth platform ">
                                 <div class="session_content_wrapper expandable" data-expandid="excerpt_244">
                                     <div class="session_speaker_thumb"><img
-                                            src="upload/pexels-photo-211050-150x150.jpeg" alt="John Doe"></div>
+                                            src="images/african-american-man-posing-in-museum-2026-01-08-06-55-44-utc.jpg" alt="John Doe"></div>
                                     <div class="session_content has_speaker_thumb">
                                         <div class="session_start_time">08:00</div>
                                         <div class="session_title">
@@ -1329,7 +1329,7 @@
                     <div id="1573568515856366234" data-columns="5">
                         <div class="element grid one_fifth_bg">
                             <a class="speaker_grid_link" href="#"><img
-                                    src="upload/pexels-photo-211050-500x500.jpeg" alt="John Doe" class="">
+                                    src="images/envato-labs-image-edit.png" alt="John Doe" class="">
                                 <div class="speaker_info_wrapper">
                                     <h4>John Doe</h4>
                                     <div class="speaker_desc">Founder Envato</div>
@@ -1338,7 +1338,7 @@
                         </div>
                         <div class="element grid one_fifth_bg">
                             <a class="speaker_grid_link" href="#"><img
-                                    src="upload/pexels-photo-25845-500x500.jpg" alt="Joanna Smith" class="">
+                                    src="images/speaker2.png" alt="Joanna Smith" class="">
                                 <div class="speaker_info_wrapper">
                                     <h4>Joanna Smith</h4>
                                     <div class="speaker_desc">VP Design Apple</div>
@@ -1347,7 +1347,7 @@
                         </div>
                         <div class="element grid one_fifth_bg">
                             <a class="speaker_grid_link" href="#"><img
-                                    src="upload/pexels-photo-175696-500x500.jpeg" alt="Luis Gallop"
+                                    src="images/speaker3.png" alt="Luis Gallop"
                                     class="">
                                 <div class="speaker_info_wrapper">
                                     <h4>Luis Gallop</h4>
@@ -1357,7 +1357,7 @@
                         </div>
                         <div class="element grid one_fifth_bg">
                             <a class="speaker_grid_link" href="#"><img
-                                    src="upload/pexels-photo-295821-500x500.jpeg" alt="Katie Stricker"
+                                    src="images/speaker4.png" alt="Katie Stricker"
                                     class="">
                                 <div class="speaker_info_wrapper">
                                     <h4>Katie Stricker</h4>
