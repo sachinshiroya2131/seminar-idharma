@@ -55,4 +55,16 @@ class EventResource extends Resource
                 SoftDeletingScope::class,
             ]);
     }
+
+    public static function getEloquentQuery(): Builder
+    {
+        $query = parent::getEloquentQuery();
+
+        if (auth()->user()->role != 'admin') {
+            // Apply extra condition only for provider owners
+            $query->where('organizer_id', auth()->user()->id);
+        }
+
+        return $query;
+    }
 }

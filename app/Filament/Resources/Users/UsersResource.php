@@ -33,6 +33,11 @@ class UsersResource extends Resource
         return UsersTable::configure($table);
     }
 
+    public static function canAccess(): bool
+    {
+        return auth()->user()?->role == 'admin' ?? false;
+    }
+
     public static function getRelations(): array
     {
         return [

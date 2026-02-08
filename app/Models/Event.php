@@ -23,4 +23,14 @@ class Event extends Model
     {
         return $this->belongsTo(User::class, 'organizer_id')->where('role', 'organizer');
     }
+
+    public function speakers()
+    {
+        return $this->belongsToMany(User::class, 'event_speakers', 'event_id', 'user_id')->where('role', 'speaker');
+    }
+
+    public function eventspeaker()
+    {
+        return $this->hasMany(EventSpeaker::class, 'event_id');
+    }
 }
